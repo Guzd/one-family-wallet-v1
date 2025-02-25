@@ -6,7 +6,7 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
 const Grafica = ({ data }) => {
   const labels = data.map(item => item.nombre);
-  const gastos = data.map(item => parseFloat(item.gasto)/1000);
+  const gastos = data.map(item => parseFloat(item.gastoActual));
 
   const chartData = {
     labels: labels, // Nombres de las personas
@@ -50,9 +50,7 @@ const Grafica = ({ data }) => {
 
   
 
-  return (
-        <Bar data={chartData} options={options} height={1000} width={800} />
-  )
+  return <Bar data={chartData} options={options} height={1000} width={800} />
 };
 
 export default Grafica;

@@ -1,0 +1,102 @@
+{
+  "grupos": [
+    {
+      "id": "be1ac5dd-27fa-44c1-8e2b-8795cba3def6",
+      "nombre": "Familia Gutierrez",
+      "presupuesto": "150",
+      "integrantes": [
+        {
+          "id": "203ab654-c79c-438f-b960-79d5b2fd711d",
+          "nombre": "Diana Isabel Gutierrez",
+          "identificador": "dianag",
+          "gastoActual": "150",
+          "pwd": "omn"
+        },
+        {
+          "id": "203ab654-c79c-438f-b960-79d5b2fdtr7113",
+          "nombre": "Alexis Gutierrez",
+          "identificador": "aalexis",
+          "gastoActual": "1500",
+          "pwd": "digz"
+        },
+        {
+          "id": "66dbb43a-cb4d-4e34-9cd3-4d93c5e13239",
+          "nombre": "Sara M",
+          "identificador": "saml",
+          "gastoActual": "450",
+          "pwd": "omni"
+        }
+      ]
+    },
+    {
+      "id": "e1dca91e-b4e4-4f58-ac8a-8cca5ceff513",
+      "nombre": "Familia Zavaleta",
+      "presupuesto": "2000",
+      "integrantes": []
+    },
+    {
+      "id": "c666859e-3bf8-48b4-ae4a-1af5141c1266",
+      "nombre": "Marcial",
+      "presupuesto": "20000",
+      "integrantes": [
+        {
+          "id": "203ab654-c79c-438f-b960-79d5b2fd711d",
+          "nombre": "Diana Isabel Gutierrez",
+          "identificador": "dianag",
+          "gastoActual": "150",
+          "pwd": "omn"
+        },
+        {
+          "id": "66dbb43a-cb4d-4e34-9cd3-4d93c5e13239",
+          "nombre": "Sara M",
+          "identificador": "saml",
+          "gastoActual": "450",
+          "pwd": "omni"
+        }
+      ]
+    },
+    {
+      "id": "df478041-8fe1-4ee4-9ee4-bf6686342263",
+      "nombre": "Perez",
+      "presupuesto": "3000",
+      "integrantes": []
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "203ab654-c79c-438f-b960-79d5b2fd711d",
+      "nombre": "Diana Isabel Gutierrez",
+      "identificador": "dianag",
+      "gastoActual": "150",
+      "pwd": "omn"
+    },
+    {
+      "id": "203ab654-c79c-438f-b960-79d5b2fd7113",
+      "nombre": "Alexis Gutierrez",
+      "identificador": "aalexis",
+      "gastoActual": "1500",
+      "pwd": "digz"
+    },
+    {
+      "id": "66dbb43a-cb4d-4e34-9cd3-4d93c5e13239",
+      "nombre": "Sara M",
+      "identificador": "saml",
+      "gastoActual": "450",
+      "pwd": "omni"
+    },
+    {
+      "id": "203ab654-c79c-438f-b960-79d5b2frd711d",
+      "nombre": "Lourdes Gutierrez",
+      "identificador": "lourdesdda",
+      "gastoActual": "2579",
+      "pwd": "omni"
+    },
+    {
+      "id": "203ab654-c79c-438f-b960-79d5b2fd7y11d",
+      "nombre": "David Gutierrez",
+      "identificador": "davidgz",
+      "gastoActual": "3450",
+      "pwd": "omni"
+    }
+  ]
+}
